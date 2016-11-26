@@ -1,0 +1,10 @@
+git branch :显示所有分支
+git checkout :切换分支
+git checkout -b ：创建并切换分支
+git branch <name>:创建名称为name的分支
+git merge ：合并分支
+git branch -d <name>:删除分支
+
+小结：
+正常是有一个默认的master分支，创建新的分支进行操作 git checkout -b name 
+操作完成后切换分支 git checkout master 然后合并分支 git merge name
