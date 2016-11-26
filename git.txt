@@ -10,6 +10,10 @@ git tag <commitid>:到指定commitid上
 git log :查看所有commitid
 git show <tag>:查看信息
 
+git remote add <url> :添加远程仓库
+git push orgin master :提交代码
+
+
 小结：
 正常是有一个默认的master分支，创建新的分支进行操作 git checkout -b name 
 操作完成后切换分支 git checkout master 然后合并分支 git merge name

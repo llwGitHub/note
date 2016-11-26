@@ -1,0 +1,2 @@
+git/usr/bin/ssh-keygen -t rsa -C "youremail@example.com"
+可以创建sshkey 
